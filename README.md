@@ -5,7 +5,7 @@ Codice Sorgente relativo alla Tesi di Laurea Magistrale
 <br />
 <div align="center">
   <a href="https://www.univpm.it/Entra/">
-    <img src="logo.png" alt="Logo" width="250" height="80">
+    <img src="logounivpm.png" alt="Logo" width="250" height="250">
   </a>
 
 <h3 align="center">Tesi di Laurea Magistrale</h3>
@@ -57,5 +57,5 @@ Denis Bernovschi
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
-Progetto Sviluppato nel Corso di Advanced Cyber Security tenuto all'Università Politecnica delle Marche 
+Progetto Sviluppato nel corso della tesi di Laurea Magistrale in collaborazione con l'Università Politecnica delle Marche, VRAI, Benelli Armi SpA, Illinois IIT
 
